@@ -6,6 +6,10 @@ from utils import *
 import wandb
 from trainers import *
 from evaluators import *
+import os
+
+# Create directory for storing weights
+os.makedirs('saved_models', exist_ok=True)
 
 # Arguments
 args = define_args()
