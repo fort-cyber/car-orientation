@@ -1,0 +1,9 @@
+torch==1.11.0
+numpy==1.24.1
+wandb==0.13.5
+cv2==4.8.0
+PIL==9.5.0
+timm==0.6.12
+torchvision==0.12.0
+argparse==1.1
+pandas==1.4.2

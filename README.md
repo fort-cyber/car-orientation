@@ -2,7 +2,7 @@
 
 ## Prerequisites
 Install all dependencies with the following command:
-TODO
+```pip install -r requirements.txt```
 
 ## Usage
 
