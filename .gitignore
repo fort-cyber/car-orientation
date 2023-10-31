@@ -160,3 +160,4 @@ cython_debug/
 #.idea/
 
 saved_models/
+wandb/
