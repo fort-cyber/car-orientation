@@ -1,6 +1,19 @@
 # Official Repository for "CFV Dataset: Fine-Grained Predictions of Car Orientation from Images"
 
-## TODO
+## Prerequisites
+Install all dependencies with the following command:
+TODO
+
+## Usage
+
+1. Download data from [here](https://drive.google.com/drive/folders/1tQh9p4P9Xt_40eJCCwfz2zyESScVIyd7?usp=drive_link) and extract it.
+2. Run data preparation script: ```python scripts/prepare_data.py --dataset_path /path/to/CFV_Dataset ```
+3. To run all the experiments from the paper: ```scripts/run_all_experiments.sh```
+4. To train the top-performing model: ```scripts/train_top_mode.sh```
+
+## Citation
+
+TBA
 
 ## Licence & Acknowledgement
 The CFV Dataset is released under the Apache 2.0 License (see LICENSE).
