@@ -31,7 +31,7 @@ def define_args():
     parser.add_argument('--checkpoint', type=str, default = '')
     parser.add_argument('--run_name', type=str, default = '')
     parser.add_argument('--dataset_path', type=str, default = '../angle_dataset/')
-    parser.add_argument('--seed', type=int, default=420)
+    parser.add_argument('--seed', type=int, default=21)
     args = parser.parse_args()
 
     return args

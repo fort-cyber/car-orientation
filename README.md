@@ -11,6 +11,8 @@ Install all dependencies with the following command:
 3. To run all the experiments from the paper: ```scripts/run_all_experiments.sh```
 4. To train the top-performing model: ```scripts/train_top_mode.sh```
 
+The weights of the pretrained top-performing model can be found [here](https://drive.google.com/drive/folders/1tQh9p4P9Xt_40eJCCwfz2zyESScVIyd7?usp=drive_link)
+
 ## Citation
 
 TBA
