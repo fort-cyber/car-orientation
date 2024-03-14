@@ -15,7 +15,20 @@ The weights of the pretrained top-performing model can be found [here](https://d
 
 ## Citation
 
-TBA
+If you use the CFV dataset or the pretrained orientation models in any way, please cite our paper:
+
+```
+@article{catruna2023car,
+  title={Car Full View Dataset: Fine-Grained Predictions of Car Orientation from Images},
+  author={Catruna, Andy and Betiu, Pavel and Tertes, Emanuel and Ghita, Vladimir and Radoi, Emilian and Mocanu, Irina and Dascalu, Mihai},
+  journal={Electronics},
+  volume={12},
+  number={24},
+  pages={4947},
+  year={2023},
+  publisher={MDPI}
+}
+```
 
 ## Licence & Acknowledgement
 The CFV Dataset is released under the Apache 2.0 License (see LICENSE).
